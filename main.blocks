@@ -32,4 +32,4 @@ f 4 4 4 4 4 1 4 4 f 4 4 d f 4 f
 . . . . f f 4 4 4 4 c d b c . . 
 . . . . . . f f f f d d d c . . 
 . . . . . . . . . . c c c . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="81!4r^uVtIO-,oDH0t:j"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="81!4r^uVtIO-,oDH0t:j"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="pisetscore" id="#e{{bM3(/n!FgN^vx_et"><field name="player">info.player1</field><value name="value"><shadow type="math_number" id="I#B53XW];Dy}$3:tx9cU"><field name="NUM">0</field></shadow></value><next><block type="pisetscore" id="Tn=pE4{$^1I]oS5KZz;%"><field name="player">info.player2</field><value name="value"><shadow type="math_number" id="kG;[s3/H%py2/vlhQ5.`"><field name="NUM">0</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>

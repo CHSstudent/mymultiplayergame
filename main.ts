@@ -34,3 +34,5 @@ let spacePlane2 = sprites.create(img`
     . . . . . . f f f f d d d c . . 
     . . . . . . . . . . c c c . . . 
     `, SpriteKind.Player)
+info.player1.setScore(0)
+info.player2.setScore(0)
